@@ -1,0 +1,10 @@
+INSERT INTO `jobdetail` (`jobID`, `macroOrder`, `macroType`, `searchEngine`, `searchTermName`, `linkOrTitle`, `pageVerifyText`, `minCharTime`, `maxCharTime`, `minClickTime`, `maxClickTime`) VALUES
+('ti-Sentry', 1, 'SearchEngine', 'Google', 'trucking insurance', 'Commercial Trucking Insurance and Owner Operator Truck ...', 'Flexible coverage options', 10, 50, 3000, 10000),
+('ti-Sentry', 2, 'PageLink', 'Google', 'trucking insurance', 'More about commercial auto liability', 'Significant figures', 10, 50, 3000, 10000),
+('ti-Sentry', 3, 'PageLink', 'Google', 'trucking insurance', 'Learn more about Sentry claims services', 'We communicate with you', 10, 50, 3000, 10000),
+('ti-Sentry', 8, 'DirectPage', 'Google', 'trucking insurance', 'owneroperatordirect.com', 'THE BEST COMMERCIAL TRUCK INSURANCE PERIOD', 10, 50, 3000, 10000),
+('ti-Progressive', 1, 'SearchEngine', 'Google', 'trucking insurance', 'Commercial Truck Insurance | Progressive Commercial', 'The #1 commercial truck insurer in America', 10, 50, 3000, 10000),
+('ti-Sentry', 4, 'PageLink', 'Google', 'trucking insurance', 'claims online', 'Online tools and portals', 10, 50, 3000, 10000),
+('ti-Sentry', 5, 'PageLink', 'Google', 'trucking insurance', 'Manufacturing and process industries', 'Manufacturing business insurance', 10, 50, 3000, 10000),
+('ti-Sentry', 6, 'PageLink', 'Google', 'trucking insurance', 'More about electronic manufacturing', 'Electronic component manufacturing insurance', 10, 50, 3000, 10000),
+('ti-Sentry', 7, 'PageLink', 'Google', 'trucking insurance', 'More about business auto insurance', 'Business auto insurance', 10, 50, 3000, 10000);
